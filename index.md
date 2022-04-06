@@ -4,7 +4,7 @@
 - 单位： 中国海洋大学 计算机科学与技术学院
 - 地址： 青岛市西海岸新区古镇口大珠山脚下
 
-<a href="/index-en.html"> 英文版 </a>
+<a href="/index-en.html"> English Version </a>
 
 ### 研究方向
 - 计算机视觉
