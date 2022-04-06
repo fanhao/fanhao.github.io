@@ -6,6 +6,8 @@
 
 <a href="/index-en.html"> English Version </a>
 
+<a href="https://github.com/fanhao"> GitHub </a>
+
 ### 研究方向
 - 计算机视觉
 - 水下视觉
