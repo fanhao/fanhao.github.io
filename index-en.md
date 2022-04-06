@@ -4,6 +4,8 @@
 
 - 2014/09 - 2019/06, I was a Ph.D. Student at Ocean University of China (OUC), Qingdao, China, under the supervision of Prof. Junyu Dong.
 
+<a href="/index.html"> 中文版 </a>
+
 ### Research Interests:
 
 My primary reseach interests include computer vision, underwater vision, 3D reconstruction, visual SLAM.
