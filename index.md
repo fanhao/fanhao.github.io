@@ -9,6 +9,8 @@
 <a href="https://github.com/fanhao"> GitHub </a>
 
 ### 研究方向 - 三维视觉，水下视觉
+![研究规划](https://user-images.githubusercontent.com/57893728/162727493-a789eaa0-d145-4488-8591-4524c7b23228.png)
+
 #### 1. 光度立体的研究 （将光度信息融入到移动三维重建中）
 - 晃动光度立体（移动状态下的光度立体）
 - 单光源移动光度立体
