@@ -1,3 +1,4 @@
+#theme: jekyll-theme-cayman
 # Setup
 title: '3D Vision Research Group'
 url: https://fanhao.github.io
@@ -10,10 +11,3 @@ kramdown:
 highlighter: rouge
 permalink: /:title/
 future: true
-
-
-# Excludes
-exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
