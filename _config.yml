@@ -1,8 +1,7 @@
-#theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
 # Setup
 title: '3D Vision Research Group'
 url: https://fanhao.github.io
-# solution_url: missing-notes-and-solutions/2020/solutions/
 # Settings
 markdown: kramdown
 kramdown:
