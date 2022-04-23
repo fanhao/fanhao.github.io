@@ -1,1 +1,19 @@
-theme: jekyll-theme-slate
+# Setup
+title: '3D Vision Research Group'
+url: https://fanhao.github.io
+# solution_url: missing-notes-and-solutions/2020/solutions/
+# Settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+permalink: /:title/
+future: true
+
+
+# Excludes
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
