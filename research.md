@@ -1,3 +1,5 @@
+# <a href="/index.html">三维视觉课题组</a>| <a href="/people.html">研究人员</a>| <a href="/research.html">研究内容</a>|<a href="/project.html">研究项目</a>
+
 ## 1. 光度立体的研究 （将光度信息融入到移动三维重建中）
 - 晃动光度立体（移动状态下的光度立体）
 - 单光源移动光度立体
