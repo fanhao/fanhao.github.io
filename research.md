@@ -6,7 +6,7 @@
 - 多视角光度立体（多视角点云拼接）
 
 ## 2. 双目立体视觉（服务于视觉定位与重建）
-- 鲁棒的特征描述子提取方法研究 <a href='#test_redirect'>跳转</a>
+- 鲁棒的特征描述子提取方法研究 <a href='#TIM2022-1'>TIM2022-1</a>
 - 误匹配剔除算法研究
 - 双目稠密匹配方法研究
 - 多视角稠密匹配方法研究
@@ -41,7 +41,7 @@
 
 ## 发表论文 
 \# 学生一作，\* 通讯作者
-* Rao Yuan#, Yang Jian, Ju Yakun, Li Cong, Rigall Eric, Fan Hao*, Dong Junyu*. Learning General Feature Descriptor for Visual Measurement with Hierarchical View Consistency。IEEE Transactions on Instrumentation and Measurement, 2022. <a href="https://ieeexplore.ieee.org/document/9761834/authors">链接</a> <a name='test_redirect'>定位到此处</a>
+* Rao Yuan#, Yang Jian, Ju Yakun, Li Cong, Rigall Eric, Fan Hao*, Dong Junyu*. Learning General Feature Descriptor for Visual Measurement with Hierarchical View Consistency。IEEE Transactions on Instrumentation and Measurement, 2022. <a href="https://ieeexplore.ieee.org/document/9761834/authors">链接</a> <a name='TIM2022-1'>TIM2022-1</a>
 * Fan Hao, Qi Lin, Chen Changhao, Rao Yuan, Kong Linghui, Dong Junyu*, Yu Hui. Underwater Optical 3-D Reconstruction of Photometric Stereo Considering Light Refraction and Attenuation[J]. IEEE Journal of Oceanic Engineering, 2021. <a href="https://ieeexplore.ieee.org/abstract/document/9491044">链接</a>
 * Fan Hao, Rao Yuan#, Rigall Eric, Qi Lin, Wang Zhile, Dong Junyu*. Near-field photometric stereo using a ring-light imaging device[J]. Signal Processing: Image Communication, 2022, 102: 116605. <a href="https://www.sciencedirect.com/science/article/pii/S0923596521003039">链接</a>
 * 
