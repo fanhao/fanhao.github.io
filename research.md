@@ -40,9 +40,11 @@
 [↑Top](#Top)
 
 ## 发表论文 
-\# 指导学生，\* 通讯作者
+\# 学生一作，\* 通讯作者
+* Rao Yuan#, Yang Jian, Ju Yakun, Li Cong, Rigall Eric, Fan Hao*, Dong Junyu*. Learning General Feature Descriptor for Visual Measurement with Hierarchical View Consistency。IEEE Transactions on Instrumentation and Measurement, 2022. <a href="https://ieeexplore.ieee.org/document/9761834/authors">链接</a>
 * Fan Hao, Qi Lin, Chen Changhao, Rao Yuan, Kong Linghui, Dong Junyu*, Yu Hui. Underwater Optical 3-D Reconstruction of Photometric Stereo Considering Light Refraction and Attenuation[J]. IEEE Journal of Oceanic Engineering, 2021. <a href="https://ieeexplore.ieee.org/abstract/document/9491044">链接</a>
-* Fan Hao, Rao Yuan#, Rigall Eric, . Near-field photometric stereo using a ring-light imaging device[J]. Signal Processing: Image Communication, 2022, 102: 116605. <a href="https://www.sciencedirect.com/science/article/pii/S0923596521003039">链接</a>
+* Fan Hao, Rao Yuan#, Rigall Eric, Qi Lin, Wang Zhile, Dong Junyu*. Near-field photometric stereo using a ring-light imaging device[J]. Signal Processing: Image Communication, 2022, 102: 116605. <a href="https://www.sciencedirect.com/science/article/pii/S0923596521003039">链接</a>
+* 
 
 
 [↑Top](#Top)
