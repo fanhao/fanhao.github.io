@@ -4,9 +4,10 @@
 - 晃动光度立体（移动状态下的光度立体）
 - 单光源移动光度立体
 - 多视角光度立体（多视角点云拼接）
+- 近距离光度立体 <a href='#TIM2022-1'>[TIM2022-1]</a>
 
 ## 2. 双目立体视觉（服务于视觉定位与重建）
-- 鲁棒的特征描述子提取方法研究 <a href='#TIM2022-1'>TIM2022-1</a>
+- 鲁棒的特征描述子提取方法研究 <a href='#SPIC2022-1'>[SPIC2022-1]</a>
 - 误匹配剔除算法研究
 - 双目稠密匹配方法研究
 - 多视角稠密匹配方法研究
@@ -30,6 +31,7 @@
 - 水下相机折射标定
 - 水下单目激光三角法
 - 水下双目立体视觉
+- 水下光度立体 <a name='#JOE2021-1'>[JOE2021-1]</a>
 - 水下Mark的SfM
 - 水下Mark的视觉SLAM
 
@@ -41,10 +43,10 @@
 
 ## 发表论文 
 \# 学生一作，\* 通讯作者
-* Rao Yuan#, Yang Jian, Ju Yakun, Li Cong, Rigall Eric, Fan Hao*, Dong Junyu*. Learning General Feature Descriptor for Visual Measurement with Hierarchical View Consistency。IEEE Transactions on Instrumentation and Measurement, 2022. <a href="https://ieeexplore.ieee.org/document/9761834/authors">链接</a> <a name='TIM2022-1'>TIM2022-1</a>
-* Fan Hao, Qi Lin, Chen Changhao, Rao Yuan, Kong Linghui, Dong Junyu*, Yu Hui. Underwater Optical 3-D Reconstruction of Photometric Stereo Considering Light Refraction and Attenuation[J]. IEEE Journal of Oceanic Engineering, 2021. <a href="https://ieeexplore.ieee.org/abstract/document/9491044">链接</a>
-* Fan Hao, Rao Yuan#, Rigall Eric, Qi Lin, Wang Zhile, Dong Junyu*. Near-field photometric stereo using a ring-light imaging device[J]. Signal Processing: Image Communication, 2022, 102: 116605. <a href="https://www.sciencedirect.com/science/article/pii/S0923596521003039">链接</a>
-* 
+* Rao Yuan#, Yang Jian, Ju Yakun, Li Cong, Rigall Eric, Fan Hao*, Dong Junyu*. Learning General Feature Descriptor for Visual Measurement with Hierarchical View Consistency。IEEE Transactions on Instrumentation and Measurement, 2022. <a name='TIM2022-1'>[TIM2022-1]</a> <a href="https://ieeexplore.ieee.org/document/9761834/authors">链接</a> 
+* Fan Hao, Rao Yuan#, Rigall Eric, Qi Lin, Wang Zhile, Dong Junyu*. Near-field photometric stereo using a ring-light imaging device[J]. Signal Processing: Image Communication, 2022, 102: 116605.  <a name='SPIC2022-1'>[SPIC2022-1]</a> <a href="https://www.sciencedirect.com/science/article/pii/S0923596521003039">链接</a>
+* Fan Hao, Qi Lin, Chen Changhao, Rao Yuan, Kong Linghui, Dong Junyu*, Yu Hui. Underwater Optical 3-D Reconstruction of Photometric Stereo Considering Light Refraction and Attenuation[J]. IEEE Journal of Oceanic Engineering, 2021. <a name='JOE2021-1'>[JOE2021-1]</a> <a href="https://ieeexplore.ieee.org/abstract/document/9491044">链接</a>
+*  
 
 
 [↑Top](#Top)
