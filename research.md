@@ -1,8 +1,8 @@
 # <a href="/index.html">三维视觉课题组</a> | <a href="/people.html">研究人员</a> | <a href="/research.html">研究内容</a> | <a href="/project.html">研究项目</a>
 
 ## 1. 光度立体的研究 （将光度信息融入到移动三维重建中）
-- 近距离光度立体 <a href='#TIM2022-1'>[TIM2022-1]</a> <a href='Opt-Eng2017-2'>[Opt-Eng2017-2]</a>
-- 单光源移动光度立体 <a href='IECON2018-1'>[IECON2018-1]</a>
+- 近距离光度立体 <a href='#TIM2022-1'>[TIM2022-1]</a> <a href='#Opt-Eng2017-2'>[Opt-Eng2017-2]</a>
+- 单光源移动光度立体 <a href='#IECON2018-1'>[IECON2018-1]</a>
 - 晃动光度立体（移动状态下的光度立体）
 - 多视角光度立体（多视角点云拼接）
 
@@ -20,7 +20,7 @@
 - 基于Marker定位的SfM
 
 ## 5. 视觉SLAM、VIO（多传感器融合的高精度移动定位）
-- 线激光视觉SLAM <a href='iCAST2020-1'>[iCAST2020-1]</a> <a href='TEM2019-1'>[TEM2019-1]</a>
+- 线激光视觉SLAM <a href='#iCAST2020-1'>[iCAST2020-1]</a> <a href='#TEM2019-1'>[TEM2019-1]</a>
 - 小场景的实时稠密三维重建，点线面特征融合SLAM
 
 ## 6. 三维点云分析
@@ -29,7 +29,7 @@
  
 ## 7. 水下视觉
 - 水下相机折射标定
-- 水下单目激光三角法 <a href='Opt-Eng2017-1'>[Opt-Eng2017-1]</a>
+- 水下单目激光三角法 <a href='#Opt-Eng2017-1'>[Opt-Eng2017-1]</a>
 - 水下双目立体视觉
 - 水下光度立体 <a href='#JOE2021-1'>[JOE2021-1]</a>
 - 水下Mark的SfM
