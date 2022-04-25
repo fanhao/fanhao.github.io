@@ -8,12 +8,12 @@
 
 ## 2. 双目立体视觉（服务于视觉定位与重建）
 - 鲁棒的特征描述子提取方法研究 <a href='#SPIC2022-1'>[SPIC2022-1]</a>
-- 误匹配剔除算法研究
+- 误匹配剔除算法研究 <a href='#iCAST2020-3'>[iCAST2020-3]</a> 
 - 双目稠密匹配方法研究
 - 多视角稠密匹配方法研究
 
 ## 3. 结构光三维重建
-- 单目线结构光旋转扫描
+- 单目线结构光旋转扫描 <a href='#iCAST2020-2'>[iCAST2020-2]</a>
 - 双目格雷码结构光三维重建
 
 ## 4. 运动恢复结构方法（视觉高精度移动定位）
@@ -21,7 +21,7 @@
 
 ## 5. 视觉SLAM、VIO（多传感器融合的高精度移动定位）
 - 小场景的实时稠密三维重建，点线面特征融合SLAM
-- 线激光视觉SLAM
+- 线激光视觉SLAM <a href='iCAST2020-1'>[iCAST2020-1]</a>
 
 ## 6. 三维点云分析
 - 基于三维点云的目标识别与定位
@@ -43,10 +43,14 @@
 
 ## 发表论文 
 \# 学生一作，\* 通讯作者
+**2022年
 * Rao Yuan#, Yang Jian, Ju Yakun, Li Cong, Rigall Eric, Fan Hao*, Dong Junyu*. Learning General Feature Descriptor for Visual Measurement with Hierarchical View Consistency。IEEE Transactions on Instrumentation and Measurement, 2022. <a name='TIM2022-1'>[TIM2022-1]</a> <a href="https://ieeexplore.ieee.org/document/9761834/authors">链接</a> 
 * Fan Hao, Rao Yuan#, Rigall Eric, Qi Lin, Wang Zhile, Dong Junyu*. Near-field photometric stereo using a ring-light imaging device[J]. Signal Processing: Image Communication, 2022, 102: 116605.  <a name='SPIC2022-1'>[SPIC2022-1]</a> <a href="https://www.sciencedirect.com/science/article/pii/S0923596521003039">链接</a>
+**2021年
 * Fan Hao, Qi Lin, Chen Changhao, Rao Yuan, Kong Linghui, Dong Junyu*, Yu Hui. Underwater Optical 3-D Reconstruction of Photometric Stereo Considering Light Refraction and Attenuation[J]. IEEE Journal of Oceanic Engineering, 2021. <a name='JOE2021-1'>[JOE2021-1]</a> <a href="https://ieeexplore.ieee.org/abstract/document/9491044">链接</a>
-*  
-
+**2020年
+* Shi Zhengwu#, Lu Qingxuan, Zhang Shu, Qi Lin, Fan Hao*, Dong Junyu. A Visual-SLAM based Line Laser Scanning System using Semantically Segmented Images[C]. 2020 11th International Conference on Awareness Science and Technology (iCAST). IEEE, 2020. <a name='iCAST2020-1'>[iCAST2020-1]</a> <a href="https://ieeexplore.ieee.org/abstract/document/9319479/authors#authors">链接</a>
+* Jia Chenxin#, Cao Ying, Yang Jian, Rao Yuan, Fan Hao*, Yao Wenlin. Improving Visual-Inertial Odometry with Robust Outlier Rejection and Loop Closure[C]. 2020 11th International Conference on Awareness Science and Technology (iCAST). IEEE, 2020. <a name='iCAST2020-2'>[iCAST2020-2]</a> <a href="https://ieeexplore.ieee.org/abstract/document/9319474/authors#authors">链接</a>
+* Zhu Zhihao, Yang Jian, Wang Xianglong, Qi Guanqi, Wu Chuang, Fan Hao*, Qi Lin, Dong Junyu. Rotation Axis Calibration of Laser Line Rotating-Scan System for 3D Reconstruction[C]//2020 11th International Conference on Awareness Science and Technology (iCAST). IEEE, 2020. <a name='iCAST2020-3'>[iCAST2020-3]</a> <a href="https://ieeexplore.ieee.org/abstract/document/9319495/authors#authors">链接</a>
 
 [↑Top](#Top)
