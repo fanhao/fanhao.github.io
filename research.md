@@ -38,3 +38,11 @@
 - 单目 行人身高测量、骨架动态测量
 
 [↑Top](#Top)
+
+## 发表论文 
+\# 指导学生，\* 通讯作者
+* Fan Hao, Qi Lin, Chen Changhao, Rao Yuan, Kong Linghui, Dong Junyu*, Yu Hui. Underwater Optical 3-D Reconstruction of Photometric Stereo Considering Light Refraction and Attenuation[J]. IEEE Journal of Oceanic Engineering, 2021. <a href="https://ieeexplore.ieee.org/abstract/document/9491044">链接</a>
+* Fan Hao, Rao Yuan#, Rigall Eric, . Near-field photometric stereo using a ring-light imaging device[J]. Signal Processing: Image Communication, 2022, 102: 116605. <a href="https://www.sciencedirect.com/science/article/pii/S0923596521003039">链接</a>
+
+
+[↑Top](#Top)
