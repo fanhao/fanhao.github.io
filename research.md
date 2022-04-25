@@ -45,7 +45,7 @@
 \# 学生一作，\* 通讯作者
 
 **2022年**
-* Rao Yuan#, Yang Jian, Ju Yakun, Li Cong, Rigall Eric, Fan Hao*, Dong Junyu*. Learning General Feature Descriptor for Visual Measurement with Hierarchical View Consistency. IEEE Transactions on Instrumentation and Measurement, 2022. <a name='TIM2022-1'>[TIM2022-1]</a> <a href="https://ieeexplore.ieee.org/document/9761834/authors">链接</a> 
+* Rao Yuan#, Yang Jian, Ju Yakun, Li Cong, Rigall Eric, Fan Hao*, Dong Junyu* . Learning General Feature Descriptor for Visual Measurement with Hierarchical View Consistency. IEEE Transactions on Instrumentation and Measurement, 2022. <a name='TIM2022-1'>[TIM2022-1]</a> <a href="https://ieeexplore.ieee.org/document/9761834/authors">链接</a> 
 * Fan Hao, Rao Yuan#, Rigall Eric, Qi Lin, Wang Zhile, Dong Junyu*. Near-field photometric stereo using a ring-light imaging device[J]. Signal Processing: Image Communication, 2022, 102: 116605.  <a name='SPIC2022-1'>[SPIC2022-1]</a> <a href="https://www.sciencedirect.com/science/article/pii/S0923596521003039">链接</a>
 
 **2021年**
