@@ -3,7 +3,7 @@
 ## 1. 光度立体的研究 （将光度信息融入到移动三维重建中）
 - 近距离光度立体 <a href='#SPIC2022-1'>[SPIC2022-1]</a> <a href='#Opt-Eng2017-2'>[Opt-Eng2017-2]</a>
 - 单光源移动光度立体 <a href='#IECON2018-1'>[IECON2018-1]</a>
-- 晃动光度立体（移动状态下的光度立体）
+- 晃动光度立体（移动状态下的光度立体）<a href='#IWAIT2022'>[IWAIT2022]</a>
 - 多视角光度立体（多视角点云拼接）
 
 ## 2. 双目立体视觉（服务于视觉定位与重建）
@@ -45,6 +45,7 @@
 \# 学生一作，\* 通讯作者
 
 **2022年**
+* Changhao Chen#, Zhenlin Jia, Hao Fan\*, and Junyu Dong. "Dynamic photometric stereo for flat bas-relief surfaces", Proc. SPIE 12177, International Workshop on Advanced Imaging Technology (IWAIT) 2022, 121771P. <a name='IWAIT2022'>[IWAIT2022]</a> <a href="https://doi.org/10.1117/12.2624226">链接</a> 
 * Rao Yuan#, Yang Jian, Ju Yakun, Li Cong, Rigall Eric, Fan Hao\*, Dong Junyu\*. Learning General Feature Descriptor for Visual Measurement with Hierarchical View Consistency. IEEE Transactions on Instrumentation and Measurement, 2022. <a name='TIM2022-1'>[TIM2022-1]</a> <a href="https://ieeexplore.ieee.org/document/9761834/authors">链接</a> 
 * Fan Hao, Rao Yuan#, Rigall Eric, Qi Lin, Wang Zhile, Dong Junyu*. Near-field photometric stereo using a ring-light imaging device[J]. Signal Processing: Image Communication, 2022, 102: 116605.  <a name='SPIC2022-1'>[SPIC2022-1]</a> <a href="https://www.sciencedirect.com/science/article/pii/S0923596521003039">链接</a>
 
