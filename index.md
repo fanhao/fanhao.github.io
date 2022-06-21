@@ -6,8 +6,8 @@
 
 ![研究规划](https://user-images.githubusercontent.com/57893728/162727493-a789eaa0-d145-4488-8591-4524c7b23228.png)
 
-<div style='display: none'> 哈哈我是注释，不会在浏览器中显示。 我也是注释。 </div>
-<div style='display: none'> % <a href="/pdf/visionLabIntroduction.pdf" target="_blank">[计算机视觉实验室]</a> </div>
+
+<!-- <a href="/pdf/visionLabIntroduction.pdf" target="_blank">[计算机视觉实验室]</a> </div> -->
 
 
 
