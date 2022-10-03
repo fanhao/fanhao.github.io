@@ -1,11 +1,10 @@
 # <a href="/index.html">三维视觉课题组</a> | <a href="/people.html">研究人员</a> | <a href="/research.html">研究内容</a> | <a href="/project.html">研究项目</a>
-## 1. 水下视觉
+## 1. 水下视觉 （水下光学三维成像）
 - 水下相机折射标定
 - 水下单目激光三角法 <a href='#Opt-Eng2017-1'>[Opt-Eng2017-1]</a>
 - 水下双目立体视觉
 - 水下光度立体 <a href='#JOE2021-1'>[JOE2021-1]</a>
-- 水下Mark的SfM
-- 水下Mark的视觉SLAM
+- 水下SfM/SLAM
 
 ## 2. 光度立体的研究 （将光度信息融入到移动三维重建中）
 **目标产物：（1）手持单光源三维成像设备；（2）水下ROV移动多光源三维成像设备**
