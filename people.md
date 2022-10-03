@@ -14,7 +14,7 @@
 ### * <a href="http://it.ouc.edu.cn/fh/main.htm">范浩</a> 讲师 
 **工作单位：** <a href="http://www.ouc.edu.cn/">中国海洋大学</a> <a href="http://it.ouc.edu.cn/">信息科学与工程学部</a> <a href="http://it.ouc.edu.cn/cs/">计算机科学与技术学院</a>     
 **电子邮箱：** fanhao@ouc.edu.cn   
-**办公地址：** 海大崂山校区 信息楼南楼B515   
+**办公地址：** 海大西海岸校区 信息楼南楼（计算机楼）C409
 **教授课程：** 计算机系统基础(本科生)，软件技术先导实践（本科生），计算机视觉(研究生) 
 
 ## 招生要求
