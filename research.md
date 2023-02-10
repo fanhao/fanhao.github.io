@@ -2,7 +2,7 @@
 # 应用研究
 ## 1.1 水下视觉
 **目标产物：水下光学三维成像系统**
-- 水下相机折射标定
+- 水下相机折射标定 <a href='#Opt-Eng2022-1'>[Opt-Eng2022-1]</a>
 - 水下单目激光三角法 <a href='#Opt-Eng2017-1'>[Opt-Eng2017-1]</a>
 - 水下双目立体视觉 <a href='#TIM2022-2'>[TIM2022-2]</a>
 - 水下光度立体 <a href='#JOE2021-1'>[JOE2021-1]</a>
@@ -57,7 +57,7 @@
 
 **2022年**
 * Hu Yeqi#, Rao Wei, Qi Lin, Dong junyu, Cai jinzhen, Fan Hao\*. "A Refractive Stereo Structured-Light 3D Measurement System for Immersed Object", IEEE Transactions on Instrumentation and Measurement, 2022. <a name='TIM2022-2'>[TIM2022-2]</a> <a href="https://ieeexplore.ieee.org/abstract/document/9996430">链接</a> 
-* "Refraction calibration of housing parameters for a flat-port underwater camera"
+* Qi Guangqi, Shi Zhengwu, Hu Yeqi, Fan Hao, Dong Junyu. "Refraction calibration of housing parameters for a flat-port underwater camera", Optical Engineering, Vol. 61, Issue 10, 104105 (October 2022). <a name='Opt-Eng2022-1'>[Opt-Eng2022-1]</a> <a href="https://doi.org/10.1117/1.OE.61.10.104105">链接</a>
 * "Calibrated Relighting Network for Image Light Transfer"
 * "Visual Semantic SLAM Based on Examination of Moving Consistency in Dynamic Scenes"
 * "Robust Initialization for Stereo Visual-Inertial SLAM with Polar-Based Gravity Estimation"
