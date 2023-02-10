@@ -56,7 +56,7 @@
 * Jia Zhenlin#, Rao Yuan#, Fan Hao\*, Dong Junyu\*. "An Efficient Visual SfM Framework Using Planar Markers", IEEE Transactions on Instrumentation and Measurement, 2023. <a name='TIM2023-1'>[TIM2023-1]</a> <a href="https://ieeexplore.ieee.org/document/10041830/authors">链接</a> 
 
 **2022年**
-* Hu Yeqi#, Rao Wei, Qi Lin, Dong junyu, Cai jinzhen, Fan Hao\*. "A Refractive Stereo Structured-Light 3D Measurement System for Immersed Object", IEEE Transactions on Instrumentation and Measurement, 2022. <a name='TIM2022-2'>[TIM2022-2]</a> <a href="[https://ieeexplore.ieee.org/abstract/document/9996430">链接</a> 
+* Hu Yeqi#, Rao Wei, Qi Lin, Dong junyu, Cai jinzhen, Fan Hao\*. "A Refractive Stereo Structured-Light 3D Measurement System for Immersed Object", IEEE Transactions on Instrumentation and Measurement, 2022. <a name='TIM2022-2'>[TIM2022-2]</a> <a href="https://ieeexplore.ieee.org/abstract/document/9996430">链接</a> 
 * "Refraction calibration of housing parameters for a flat-port underwater camera"
 * "Calibrated Relighting Network for Image Light Transfer"
 * "Visual Semantic SLAM Based on Examination of Moving Consistency in Dynamic Scenes"
