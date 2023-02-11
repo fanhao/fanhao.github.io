@@ -11,7 +11,7 @@
 **目标产物：（1）视觉引导解决方案；（2）定位与避障关键技术**
 - 鲁棒的特征描述子提取方法研究 <a href='#TIM2022-1'>[TIM2022-1]</a> <a href='#ICDIS2022-1'>[ICDIS2022-1]</a>
 - 误匹配剔除算法研究 <a href='#iCAST2020-3'>[iCAST2020-3]</a> 
-- 双目稠密匹配方法研究
+- 双目稠密匹配方法研究 <a href='#ICIVC2022-1'>[ICIVC2022-1]</a> 
 - 多视角稠密匹配方法研究
 
 ## 1.3 运动恢复结构方法（视觉高精度移动定位）
@@ -19,8 +19,10 @@
 - 基于Marker定位的SfM <a href='#TIM2023-1'>[TIM2023-1]</a>
 
 ## 1.4 视觉SLAM、VIO（多传感器融合的高精度移动定位）
+- 视觉SLAM基础研究 <a href='#ICDIS2022-3'>[ICDIS2022-3]</a>
 - 线激光视觉SLAM <a href='#iCAST2020-1'>[iCAST2020-1]</a> <a href='#TEM2019-1'>[TEM2019-1]</a>
-- 小场景的实时稠密三维重建，点线面特征融合SLAM
+- 小场景的实时稠密三维重建
+- 点线面特征融合SLAM
 
 ## 1.5 三维点云分析
 - 基于三维点云的目标识别与定位
@@ -56,12 +58,12 @@
 
 **2022年**
 * Hu Yeqi#, Rao Wei, Qi Lin, Dong junyu, Cai jinzhen, Fan Hao\*. "A Refractive Stereo Structured-Light 3D Measurement System for Immersed Object", IEEE Transactions on Instrumentation and Measurement, 2022. <a name='TIM2022-2'>[TIM2022-2]</a> <a href="https://ieeexplore.ieee.org/abstract/document/9996430">链接</a> 
-* Qi Guangqi, Shi Zhengwu, Hu Yeqi, Fan Hao, Dong Junyu. "Refraction calibration of housing parameters for a flat-port underwater camera", Optical Engineering, Vol. 61, Issue 10, 104105 (October 2022). <a name='Opt-Eng2022-1'>[Opt-Eng2022-1]</a> <a href="https://doi.org/10.1117/1.OE.61.10.104105">链接</a>
+* Qi Guanqi#, Shi Zhengwu, Hu Yeqi, Fan Hao, Dong Junyu. "Refraction calibration of housing parameters for a flat-port underwater camera", Optical Engineering, Vol. 61, Issue 10, 104105 (October 2022). <a name='Opt-Eng2022-1'>[Opt-Eng2022-1]</a> <a href="https://doi.org/10.1117/1.OE.61.10.104105">链接</a>
 * Li Cong#, Rao Yuan, Yang Jian, Yang Kai, Fan Hao, Dong Junyu. "Calibrated Relighting Network for Image Light Transfer". 2022 4th International Conference on Data Intelligence and Security (ICDIS), Shenzhen, China, 2022, pp. 267-274. <a name='ICDIS2022-1'>[ICDIS2022-1]</a> <a href="https://ieeexplore.ieee.org/abstract/document/9984852">链接</a>
-* "Visual Semantic SLAM Based on Examination of Moving Consistency in Dynamic Scenes"
-* "Robust Initialization for Stereo Visual-Inertial SLAM with Polar-Based Gravity Estimation"
-* "Cascaded Feature Interaction Network for Stereo Matching"
-* Changhao Chen#, Zhenlin Jia, Hao Fan\*, and Junyu Dong. "Dynamic photometric stereo for flat bas-relief surfaces", Proc. SPIE 12177, International Workshop on Advanced Imaging Technology (IWAIT) 2022, 121771P (30 April 2022). <a name='IWAIT2022-1'>[IWAIT2022-1]</a> <a href="https://doi.org/10.1117/12.2624226">链接</a> 
+* Yang Kai#, Jiang Yumeng, Qi Lin, Fan Hao, Dong Junyu. "Visual Semantic SLAM Based on Examination of Moving Consistency in Dynamic Scenes". <a name='ICDIS2022-2'>[ICDIS2022-2]</a> <a href="https://ieeexplore.ieee.org/abstract/document/9984881">链接</a>
+* Liu Yifan#, Rao Yuan, Qi Guanqi, Fan Hao, Dong Junyu. "Robust Initialization for Stereo Visual-Inertial SLAM with Polar-Based Gravity Estimation". 2022 4th International Conference on Data Intelligence and Security (ICDIS), Shenzhen, China, 2022, pp. 402-407. <a name='ICDIS2022-3'>[ICDIS2022-3]</a> <a href="https://ieeexplore.ieee.org/abstract/document/9984882">链接</a>
+* Xie Zhijie#, Rao Yuan, Hu Yeqi, Fan Hao, Dong Junyu. "Cascaded Feature Interaction Network for Stereo Matching". 2022 7th International Conference on Image, Vision and Computing (ICIVC), Xi’an, China, 2022, pp. 312-318. <a name='ICIVC2022-2'>[ICIVC2022-2]</a> <a href="https://ieeexplore.ieee.org/abstract/document/9886692">链接</a>
+* Chen Changhao#, Jia Zhenlin, Fan Hao\*, and Dong Junyu. "Dynamic photometric stereo for flat bas-relief surfaces", Proc. SPIE 12177, International Workshop on Advanced Imaging Technology (IWAIT) 2022, 121771P (30 April 2022). <a name='IWAIT2022-1'>[IWAIT2022-1]</a> <a href="https://doi.org/10.1117/12.2624226">链接</a> 
 * Rao Yuan#, Yang Jian, Ju Yakun, Li Cong, Rigall Eric, Fan Hao\*, Dong Junyu\*. Learning General Feature Descriptor for Visual Measurement with Hierarchical View Consistency. IEEE Transactions on Instrumentation and Measurement, 2022. <a name='TIM2022-1'>[TIM2022-1]</a> <a href="https://ieeexplore.ieee.org/document/9761834/authors">链接</a> 
 * Fan Hao, Rao Yuan#, Rigall Eric, Qi Lin, Wang Zhile, Dong Junyu*. Near-field photometric stereo using a ring-light imaging device[J]. Signal Processing: Image Communication, 2022, 102: 116605.  <a name='SPIC2022-1'>[SPIC2022-1]</a> <a href="https://www.sciencedirect.com/science/article/pii/S0923596521003039">链接</a>
 
