@@ -29,7 +29,7 @@
 
 ## 2.2 双目立体视觉（服务于视觉定位与重建）
 **目标产物：（1）视觉引导解决方案；（2）定位与避障关键技术**
-- 鲁棒的特征描述子提取方法研究 <a href='#TIM2022-1'>[TIM2022-1]</a>
+- 鲁棒的特征描述子提取方法研究 <a href='#TIM2022-1'>[TIM2022-1]</a> <a href='#ICDIS2022-1'>[ICDIS2022-1]</a>
 - 误匹配剔除算法研究 <a href='#iCAST2020-3'>[iCAST2020-3]</a> 
 - 双目稠密匹配方法研究
 - 多视角稠密匹配方法研究
@@ -58,7 +58,7 @@
 **2022年**
 * Hu Yeqi#, Rao Wei, Qi Lin, Dong junyu, Cai jinzhen, Fan Hao\*. "A Refractive Stereo Structured-Light 3D Measurement System for Immersed Object", IEEE Transactions on Instrumentation and Measurement, 2022. <a name='TIM2022-2'>[TIM2022-2]</a> <a href="https://ieeexplore.ieee.org/abstract/document/9996430">链接</a> 
 * Qi Guangqi, Shi Zhengwu, Hu Yeqi, Fan Hao, Dong Junyu. "Refraction calibration of housing parameters for a flat-port underwater camera", Optical Engineering, Vol. 61, Issue 10, 104105 (October 2022). <a name='Opt-Eng2022-1'>[Opt-Eng2022-1]</a> <a href="https://doi.org/10.1117/1.OE.61.10.104105">链接</a>
-* "Calibrated Relighting Network for Image Light Transfer"
+* Li Cong#, Rao Yuan, Yang Jian, Yang Kai, Fan Hao, Dong Junyu. "Calibrated Relighting Network for Image Light Transfer". 2022 4th International Conference on Data Intelligence and Security (ICDIS), Shenzhen, China, 2022, pp. 267-274. <a name='ICDIS2022-1'>[ICDIS2022-1]</a> <a href="https://ieeexplore.ieee.org/abstract/document/9984852">链接</a>
 * "Visual Semantic SLAM Based on Examination of Moving Consistency in Dynamic Scenes"
 * "Robust Initialization for Stereo Visual-Inertial SLAM with Polar-Based Gravity Estimation"
 * "Cascaded Feature Interaction Network for Stereo Matching"
