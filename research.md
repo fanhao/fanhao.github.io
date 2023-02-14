@@ -54,8 +54,8 @@
 \# 学生一作，\* 通讯作者
 
 **2023年**
-* Liu Yimei, Rao Yuan, Eric Rigall, Fan Hao, Dong Junyu\*. "Incorporating Co-Visibility Reasoning Into Surface Depth Measurement", IEEE Transactions on Instrumentation and Measurement, 2023. <a name='TIM2023-3'>[TIM2023-3]</a> 
-* Rao Yuan, Ju Yakun, Wang Sen, Fan Hao, Dong Junyu\*. "Learning Enriched Feature Descriptor for Image Matching and Visual Measurement", IEEE Transactions on Instrumentation and Measurement, 2023. <a name='TIM2023-2'>[TIM2023-2]</a> 
+* Liu Yimei#, Rao Yuan, Eric Rigall, Fan Hao, Dong Junyu\*. "Incorporating Co-Visibility Reasoning Into Surface Depth Measurement", IEEE Transactions on Instrumentation and Measurement, 2023. <a name='TIM2023-3'>[TIM2023-3]</a> 
+* Rao Yuan#, Ju Yakun, Wang Sen, Fan Hao, Dong Junyu\*. "Learning Enriched Feature Descriptor for Image Matching and Visual Measurement", IEEE Transactions on Instrumentation and Measurement, 2023. <a name='TIM2023-2'>[TIM2023-2]</a> 
 * Jia Zhenlin#, Rao Yuan#, Fan Hao\*, Dong Junyu\*. "An Efficient Visual SfM Framework Using Planar Markers", IEEE Transactions on Instrumentation and Measurement, 2023. <a name='TIM2023-1'>[TIM2023-1]</a> <a href="https://ieeexplore.ieee.org/document/10041830/authors">链接</a> 
 
 **2022年**
