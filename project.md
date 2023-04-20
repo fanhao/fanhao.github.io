@@ -1,4 +1,4 @@
-# <a href="/index.html">三维视觉课题组</a> | <a href="/people.html">研究人员</a> | <a href="/research.html">研究内容</a> | <a href="/project.html">研究项目</a>
+# <a href="/index.html">三维视觉课题组</a> | <a href="/people.html">研究团队</a> | <a href="/research.html">研究内容</a> | <a href="/project.html">研究项目</a>
 
 ## 2022年 
 **（1）水下单目/双目线激光扫描系统-南海珊瑚（水下激光三角、水下双目）** （在研）
