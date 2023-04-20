@@ -9,7 +9,7 @@
 
 ## 1.2 双目立体视觉（服务于视觉定位与重建）
 **目标产物：（1）视觉引导解决方案；（2）定位与避障关键技术**
-- 鲁棒的特征描述子提取方法研究 <a href='#TIM2022-1'>[TIM2022-1]</a> <a href='#ICDIS2022-1'>[ICDIS2022-1]</a> <a href='#TIM2023-2'>[TIM2023-2]</a>
+- 鲁棒的特征描述子提取方法研究 <a href='#TIM2022-1'>[TIM2022-1]</a> <a href='#ICDIS2022-1'>[ICDIS2022-1]</a> <a href='#TIM2023-2'>[TIM2023-2]</a> <a href='#TCSVT023-2'>[TCSVT2023-2]</a>
 - 误匹配剔除算法研究 <a href='#iCAST2020-3'>[iCAST2020-3]</a> 
 - 双目稠密匹配方法研究 <a href='#ICIVC2022-1'>[ICIVC2022-1]</a> 
 - 多视角稠密匹配方法研究 <a href='#TIM2023-3'>[TIM2023-3]</a>
@@ -54,6 +54,7 @@
 \# 学生一作，\* 通讯作者
 
 **2023年**
+* Rao Yuan#, Ju Yakun, Li Cong, Eric Rigall, Yang Jian, Fan Hao, Dong Junyu. "Learning General Descriptors for Image Matching with Regression Feedback",  IEEE Transactions on Circuits and Systems for Video Technology, 2023. <a name='TCSVT2023-1'>[TCSVT2023-1]</a>
 * Liu Yimei#, Rao Yuan, Eric Rigall, Fan Hao, Dong Junyu\*. "Incorporating Co-Visibility Reasoning Into Surface Depth Measurement", IEEE Transactions on Instrumentation and Measurement, 2023. <a name='TIM2023-3'>[TIM2023-3]</a> 
 * Rao Yuan#, Ju Yakun, Wang Sen, Fan Hao, Dong Junyu\*. "Learning Enriched Feature Descriptor for Image Matching and Visual Measurement", IEEE Transactions on Instrumentation and Measurement, 2023. <a name='TIM2023-2'>[TIM2023-2]</a> 
 * Jia Zhenlin#, Rao Yuan#, Fan Hao\*, Dong Junyu\*. "An Efficient Visual SfM Framework Using Planar Markers", IEEE Transactions on Instrumentation and Measurement, 2023. <a name='TIM2023-1'>[TIM2023-1]</a> <a href="https://ieeexplore.ieee.org/document/10041830/authors">链接</a> 
