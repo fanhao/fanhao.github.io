@@ -11,7 +11,7 @@
 **目标产物：（1）视觉引导解决方案；（2）定位与避障关键技术**
 - 鲁棒的特征描述子提取方法研究 <a href='#TIM2022-1'>[TIM2022-1]</a> <a href='#TIM2023-2'>[TIM2023-2]</a> <a href='#TCSVT023-1'>[TCSVT2023-1]</a>
 - 误匹配剔除算法研究 <a href='#iCAST2020-3'>[iCAST2020-3]</a> 
-- 双目稠密匹配方法研究 <a href='#ICIVC2022-1'>[ICIVC2022-1]</a> 
+- 双目稠密匹配方法研究 <a href='#ICIVC2022-1'>[ICIVC2022-1]</a> <a href='JMSE2023-1'>[JMSE2023-1]</a> 
 - 多视角稠密匹配方法研究 <a href='#TIM2023-3'>[TIM2023-3]</a>
 
 ## 1.3 运动恢复结构方法（视觉高精度移动定位）
@@ -33,7 +33,7 @@
 **目标产物：水下光学三维成像系统**
 - 水下相机折射标定 <a href='#Opt-Eng2022-1'>[Opt-Eng2022-1]</a>
 - 水下单目激光三角法 <a href='#Opt-Eng2017-1'>[Opt-Eng2017-1]</a>
-- 水下双目立体视觉 <a href='#TIM2022-2'>[TIM2022-2]</a>
+- 水下双目立体视觉 <a href='#TIM2022-2'>[TIM2022-2]</a> 
 - 水下光度立体 <a href='#JOE2021-1'>[JOE2021-1]</a>
 - 水下重光照  <a href='#ICDIS2022-1'>[ICDIS2022-1]</a> 
 - 水下SfM/SLAM
@@ -55,6 +55,7 @@
 \# 学生一作，\* 通讯作者
 
 **2023年**
+* Leng Jiaqi#, Lv Qingxuan, Zhang Shu, Rao Yuan, Liu Yimei, Fan Hao. "Multilevel Inverse Patchmatch Network with Local and Global Refinement for Underwater Stereo Matching", Journal of Marine Science and Engineering, 2023. <a name='JMSE2023-1'>[JMSE2023-1]</a> <a href="https://www.mdpi.com/2077-1312/11/5/930">链接</a> 
 * Rao Yuan#, Ju Yakun, Li Cong, Eric Rigall, Yang Jian, Fan Hao, Dong Junyu. "Learning General Descriptors for Image Matching with Regression Feedback",  IEEE Transactions on Circuits and Systems for Video Technology, 2023. <a name='TCSVT2023-1'>[TCSVT2023-1]</a> <a href="https://ieeexplore.ieee.org/document/10102528">链接</a> 
 * Liu Yimei#, Rao Yuan, Eric Rigall, Fan Hao, Dong Junyu\*. "Incorporating Co-Visibility Reasoning Into Surface Depth Measurement", IEEE Transactions on Instrumentation and Measurement, 2023. <a name='TIM2023-3'>[TIM2023-3]</a> <a href="https://ieeexplore.ieee.org/document/10081062">链接</a> 
 * Rao Yuan#, Ju Yakun, Wang Sen, Fan Hao, Dong Junyu\*. "Learning Enriched Feature Descriptor for Image Matching and Visual Measurement", IEEE Transactions on Instrumentation and Measurement, 2023. <a name='TIM2023-2'>[TIM2023-2]</a> <a href="https://ieeexplore.ieee.org/document/10058693">链接</a> 
