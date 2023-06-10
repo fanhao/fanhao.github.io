@@ -86,6 +86,6 @@
 * Hao Fan#, Lin Qi, Junyu Dong, Gongfa Li, Hui Yu*. Dynamic 3d surface reconstruction using a hand-held camera[C]. IECON 2018-44th Annual Conference of the IEEE Industrial Electronics Society. IEEE, 2018: 3244-3249. <a name='IECON2018-1'>[IECON2018-1]</a> <a href="https://ieeexplore.ieee.org/abstract/document/8592826/authors#authors">链接</a>
 * Hao Fan#, Lin Qi, Yakun Ju, Junyu Dong*, Hui Yu. Refractive laser triangulation and photometric stereo in underwater environment[J]. Optical Engineering, 2017, 56(11): 113101. <a name='Opt-Eng2017-1'>[Opt-Eng2017-1]</a> <a href="https://www.spiedigitallibrary.org/journals/Optical-Engineering/volume-56/issue-11/113101/Refractive-laser-triangulation-and-photometric-stereo-in-underwater-environment/10.1117/1.OE.56.11.113101.short?SSO=1">链接</a>
 * Hao Fan#, Lin Qi, Nan Wang, Junyu Dong*, Yijun Chen, Hui Yu. Deviation correction method for close-range photometric stereo with nonuniform illumination[J]. Optical Engineering, 2017, 56(10): 103102. <a name='Opt-Eng2017-2'>[Opt-Eng2017-2]</a> <a href="https://www.spiedigitallibrary.org/journals/Optical-Engineering/volume-56/issue-10/103102/Deviation-correction-method-for-close-range-photometric-stereo-with-nonuniform/10.1117/1.OE.56.10.103102.short">链接</a>
-
 [↑Top](#Top)
+
 <h6 align = "center"> <a href="/index.html">计算机视觉实验室 -- 水下三维视觉课题组</a> </h6>
