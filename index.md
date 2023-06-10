@@ -4,8 +4,7 @@
 
 * 中国海洋大学 计算机视觉实验室 成立于2004年，实验室负责人为董军宇教授。实验室包括智能视觉理论、水下三维视觉、水下视觉机器人、海洋大数据、医学图像等多个研究课题组。本网站主要介绍水下三维视觉课题组，该课题组目前由范浩老师负责。
 
-![研究规划](https://user-images.githubusercontent.com/57893728/162727493-a789eaa0-d145-4488-8591-4524c7b23228.png)
-<!-- <a href="/pdf/visionLabIntroduction.pdf" target="_blank">[计算机视觉实验室]</a> </div> -->
+https://user-images.githubusercontent.com/57893728/162727493-a789eaa0-d145-4488-8591-4524c7b23228.png
 
 ## 科研团队 -- 水下三维视觉课题组
 * 董军宇 教授
