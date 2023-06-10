@@ -1,6 +1,6 @@
 # <a href="/index.html">三维视觉课题组</a> | <a href="/research.html">研究内容</a> | <a href="/project.html">研究项目</a>
 ## 计算机视觉实验室 * 水下三维视觉课题组
-#### ----  <a href="http://www.ouc.edu.cn/">中国海洋大学</a> <a href="http://it.ouc.edu.cn/">信息科学与工程学部</a> <a href="http://it.ouc.edu.cn/cs/">计算机科学与技术学院</a>  
+####  <a href="http://www.ouc.edu.cn/">中国海洋大学</a> <a href="http://it.ouc.edu.cn/">信息科学与工程学部</a> <a href="http://it.ouc.edu.cn/cs/">计算机科学与技术学院</a>  
 #### 中国海洋大学 计算机视觉实验室 成立于2004年，实验室负责人为董军宇教授。实验室包括智能视觉理论、水下三维视觉、水下视觉机器人、海洋大数据、医学图像等多个研究课题组。本网站主要介绍水下三维视觉课题组，该课题组目前由范浩老师负责。
 
 ### 科研团队   
