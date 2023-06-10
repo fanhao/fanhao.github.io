@@ -88,3 +88,4 @@
 * Hao Fan#, Lin Qi, Nan Wang, Junyu Dong*, Yijun Chen, Hui Yu. Deviation correction method for close-range photometric stereo with nonuniform illumination[J]. Optical Engineering, 2017, 56(10): 103102. <a name='Opt-Eng2017-2'>[Opt-Eng2017-2]</a> <a href="https://www.spiedigitallibrary.org/journals/Optical-Engineering/volume-56/issue-10/103102/Deviation-correction-method-for-close-range-photometric-stereo-with-nonuniform/10.1117/1.OE.56.10.103102.short">链接</a>
 
 [↑Top](#Top)
+<h6 align = "center"> <a href="/index.html">计算机视觉实验室 -- 水下三维视觉课题组</a> </h6>
