@@ -1,4 +1,4 @@
-# <a href="/index.html">三维视觉课题组</a> | <a href="/people.html">研究团队</a> | <a href="/research.html">研究内容</a> | <a href="/project.html">研究项目</a>
+# <a href="/index.html">三维视觉课题组</a> | <a href="/research.html">研究内容</a> | <a href="/project.html">研究项目</a>
 # 基础方法研究
 ## 1.1 光度立体 （将光度信息融入到移动三维重建中）
 **目标产物：（1）手持单光源三维成像设备；（2）水下ROV移动多光源三维成像设备**
