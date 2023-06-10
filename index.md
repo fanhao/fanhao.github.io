@@ -5,7 +5,7 @@
 * 科研团队
 (1) **董军宇** 教授    (2) **亓琳** 副教授    (3) **张述** 副教授    (4) **范浩** 讲师 (<a href="http://it.ouc.edu.cn/fh/main.htm">主页</a>)
 
--- 单位:  <a href="http://www.ouc.edu.cn/">中国海洋大学</a> <a href="http://it.ouc.edu.cn/">信息科学与工程学部</a> <a href="http://it.ouc.edu.cn/cs/">计算机科学与技术学院</a>  
+单位:  <a href="http://www.ouc.edu.cn/">中国海洋大学</a> <a href="http://it.ouc.edu.cn/">信息科学与工程学部</a> <a href="http://it.ouc.edu.cn/cs/">计算机科学与技术学院</a>  
 
 ![研究规划](https://user-images.githubusercontent.com/57893728/162727493-a789eaa0-d145-4488-8591-4524c7b23228.png)
 
@@ -30,7 +30,7 @@
 ### 硕士
 * 2022年毕业：宋德豪 姜宁 周士童 贾晨鑫 朱志浩 张红 孔令辉
 
-
+<h6 align = "center">计算机视觉实验室 -- 水下三维视觉课题组</h6>
 
 
 
