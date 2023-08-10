@@ -6,7 +6,7 @@
 * (1) **董军宇** 教授    (2) **亓琳** 副教授    (3) **张述** 副教授    (4) **范浩** 讲师 (<a href="http://it.ouc.edu.cn/fh/main.htm">主页</a>)
 
 ### 研究规划
-![研究规划](https://user-images.githubusercontent.com/57893728/162727493-a789eaa0-d145-4488-8591-4524c7b23228.png)
+![三维视觉组规划2023](https://github.com/fanhao/fanhao.github.io/assets/57893728/740a0cc0-05fe-4ed5-b8d6-83c7a4b8cd94)
 
 ## 招生要求
 * 欢迎计算机、自动化、电子等相关专业的本科生提前进入实验室学习或报考硕士研究生！
