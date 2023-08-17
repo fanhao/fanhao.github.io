@@ -41,9 +41,10 @@
 - 水下单目激光三角法 <a href='#Opt-Eng2017-1'>[Opt-Eng2017-1]</a>
 - 水下双目立体视觉 <a href='#TIM2022-2'>[TIM2022-2]</a> 
 - 水下光度立体 <a href='#JOE2021-1'>[JOE2021-1]</a>
-- 水下重光照  <a href='#ICDIS2022-1'>[ICDIS2022-1]</a> 
 - 水下SfM/SLAM
-
+- 水下重光照  <a href='#ICDIS2022-1'>[ICDIS2022-1]</a>
+- 水下图像增强 <a href='#TCSVT2023-2'>[TCSVT2023-2]</a>
+  
 #### 2.2 结构光三维重建
 **目标产物：（1）线激光旋转扫描仪；（2）双目结构光稠密三维重建系统**
 - 单目线结构光旋转扫描 <a href='#iCAST2020-2'>[iCAST2020-2]</a>
@@ -61,15 +62,16 @@
 \# 学生一作，\* 通讯作者
 
 **2023年**
-* Jiaqi Leng#, Qingxuan Lv, Shu Zhang, Yuan Rao, Yimei Liu, Hao Fan\*. "Multilevel Inverse Patchmatch Network with Local and Global Refinement for Underwater Stereo Matching[J]", Journal of Marine Science and Engineering, 2023. <a name='JMSE2023-1'>[JMSE2023-1]</a> <a href="https://www.mdpi.com/2077-1312/11/5/930">链接</a> 
-* Yuan Rao#, Yakun Ju, Cong Li, Eric Rigall, Jian Yang, Hao Fan\*, Junyu Dong\*. "Learning General Descriptors for Image Matching with Regression Feedback[J]",  IEEE Transactions on Circuits and Systems for Video Technology, 2023. <a name='TCSVT2023-1'>[TCSVT2023-1]</a> <a href="https://ieeexplore.ieee.org/document/10102528">链接</a> 
-* Yimei Liu#, Yuan Rao, Eric Rigall, Hao Fan, Junyu Dong\*. "Incorporating Co-Visibility Reasoning Into Surface Depth Measurement[J]", IEEE Transactions on Instrumentation and Measurement, 2023. <a name='TIM2023-3'>[TIM2023-3]</a> <a href="https://ieeexplore.ieee.org/document/10081062">链接</a> 
-* Yuan Rao#, Yakun Ju, Sen Wang, Hao Fan, Junyu Dong\*. "Learning Enriched Feature Descriptor for Image Matching and Visual Measurement[J]", IEEE Transactions on Instrumentation and Measurement, 2023. <a name='TIM2023-2'>[TIM2023-2]</a> <a href="https://ieeexplore.ieee.org/document/10058693">链接</a> 
-* Zhenlin Jia#, Yuan Rao#, Hao Fan\*, Junyu Dong\*. "An Efficient Visual SfM Framework Using Planar Markers[J]", IEEE Transactions on Instrumentation and Measurement, 2023. <a name='TIM2023-1'>[TIM2023-1]</a> <a href="https://ieeexplore.ieee.org/document/10041830/authors">链接</a> 
+* Yuan Rao#, Wenjie Liu#, Kunqian Li, Hao Fan, Sen Wang, and Junyu Dong*, "Deep Color Compensation for Generalized Underwater Image Enhancement"[J], IEEE Transactions on Circuits and Systems for Video Technology, 2023. <a name='TCSVT2023-2'>[TCSVT2023-2]</a> <a href="https://ieeexplore.ieee.org/document/10220126">链接</a> 
+* Jiaqi Leng#, Qingxuan Lv, Shu Zhang, Yuan Rao, Yimei Liu, Hao Fan\*. "Multilevel Inverse Patchmatch Network with Local and Global Refinement for Underwater Stereo Matching"[J], Journal of Marine Science and Engineering, 2023. <a name='JMSE2023-1'>[JMSE2023-1]</a> <a href="https://www.mdpi.com/2077-1312/11/5/930">链接</a> 
+* Yuan Rao#, Yakun Ju, Cong Li, Eric Rigall, Jian Yang, Hao Fan\*, Junyu Dong\*. "Learning General Descriptors for Image Matching with Regression Feedback"[J],  IEEE Transactions on Circuits and Systems for Video Technology, 2023. <a name='TCSVT2023-1'>[TCSVT2023-1]</a> <a href="https://ieeexplore.ieee.org/document/10102528">链接</a> 
+* Yimei Liu#, Yuan Rao, Eric Rigall, Hao Fan, Junyu Dong\*. "Incorporating Co-Visibility Reasoning Into Surface Depth Measurement"[J], IEEE Transactions on Instrumentation and Measurement, 2023. <a name='TIM2023-3'>[TIM2023-3]</a> <a href="https://ieeexplore.ieee.org/document/10081062">链接</a> 
+* Yuan Rao#, Yakun Ju, Sen Wang, Hao Fan, Junyu Dong\*. "Learning Enriched Feature Descriptor for Image Matching and Visual Measurement"[J], IEEE Transactions on Instrumentation and Measurement, 2023. <a name='TIM2023-2'>[TIM2023-2]</a> <a href="https://ieeexplore.ieee.org/document/10058693">链接</a> 
+* Zhenlin Jia#, Yuan Rao#, Hao Fan\*, Junyu Dong\*. "An Efficient Visual SfM Framework Using Planar Markers"[J], IEEE Transactions on Instrumentation and Measurement, 2023. <a name='TIM2023-1'>[TIM2023-1]</a> <a href="https://ieeexplore.ieee.org/document/10041830/authors">链接</a> 
 
 **2022年**
-* Yeqi Hu#, Wei Rao#, Lin Qi, Junyu Dong, Jinzhen Cai\*, Hao Fan\*. "A Refractive Stereo Structured-Light 3D Measurement System for Immersed Object[J]", IEEE Transactions on Instrumentation and Measurement, 2022. <a name='TIM2022-2'>[TIM2022-2]</a> <a href="https://ieeexplore.ieee.org/abstract/document/9996430">链接</a> 
-* Guanqi Qi#, Zhengwu Shi, Yeqi Hu, Hao Fan\*, Junyu Dong. "Refraction calibration of housing parameters for a flat-port underwater camera[J]", Optical Engineering, Vol. 61, Issue 10, 104105 (October 2022). <a name='Opt-Eng2022-1'>[Opt-Eng2022-1]</a> <a href="https://doi.org/10.1117/1.OE.61.10.104105">链接</a>
+* Yeqi Hu#, Wei Rao#, Lin Qi, Junyu Dong, Jinzhen Cai\*, Hao Fan\*. "A Refractive Stereo Structured-Light 3D Measurement System for Immersed Object"[J], IEEE Transactions on Instrumentation and Measurement, 2022. <a name='TIM2022-2'>[TIM2022-2]</a> <a href="https://ieeexplore.ieee.org/abstract/document/9996430">链接</a> 
+* Guanqi Qi#, Zhengwu Shi, Yeqi Hu, Hao Fan\*, Junyu Dong. "Refraction calibration of housing parameters for a flat-port underwater camera"[J], Optical Engineering, Vol. 61, Issue 10, 104105 (October 2022). <a name='Opt-Eng2022-1'>[Opt-Eng2022-1]</a> <a href="https://doi.org/10.1117/1.OE.61.10.104105">链接</a>
 * Cong Li#, Yuan Rao, Jian Yang, Kai Yang, Hao Fan\*, Junyu Dong\*. "Calibrated Relighting Network for Image Light Transfer[C]". 2022 4th International Conference on Data Intelligence and Security (ICDIS), Shenzhen, China, 2022, pp. 267-274. <a name='ICDIS2022-1'>[ICDIS2022-1]</a> <a href="https://ieeexplore.ieee.org/abstract/document/9984852">链接</a>
 * Kai Yang#, Yumeng Jiang, Lin Qi, Hao Fan, Shu Zhang\*, Junyu Dong. "Visual Semantic SLAM Based on Examination of Moving Consistency in Dynamic Scenes[C]". <a name='ICDIS2022-2'>[ICDIS2022-2]</a> <a href="https://ieeexplore.ieee.org/abstract/document/9984881">链接</a>
 * Yifan Liu#, Yuan Rao, Guanqi Qi, Hao Fan\*, Junyu Dong\*. "Robust Initialization for Stereo Visual-Inertial SLAM with Polar-Based Gravity Estimation[C]". 2022 4th International Conference on Data Intelligence and Security (ICDIS), Shenzhen, China, 2022, pp. 402-407. <a name='ICDIS2022-3'>[ICDIS2022-3]</a> <a href="https://ieeexplore.ieee.org/abstract/document/9984882">链接</a>
