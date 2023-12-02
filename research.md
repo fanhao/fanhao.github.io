@@ -7,33 +7,27 @@
 - 误匹配剔除算法研究 <a href='#iCAST2020-3'>[iCAST2020-3]</a> 
 - 双目（视差）稠密匹配方法研究 <a href='#ICIVC2022-1'>[ICIVC2022-1]</a> <a href='JMSE2023-1'>[JMSE2023-1]</a>
 - 双目（非视差）像素级匹配方法研究（光流、形变法等）
-
 #### 1.2 运动恢复结构方法（视觉高精度移动定位）
 **目标产物：（1）移动定位系统；（2）稀疏全景三维建模** 
 - 基于Marker定位的全局SfM <a href='#TIM2023-1'>[TIM2023-1]</a>
 - 不稳定光照下的SfM（鲁棒的特征提取）
-
 #### 1.3 视觉SLAM、VIO（多传感器融合的高精度移动定位）
 **目标产物：（1）移动定位系统**
 - 视觉SLAM的线结构光扫描系统 <a href='#iCAST2020-1'>[iCAST2020-1]</a> <a href='#TEM2019-1'>[TEM2019-1]</a>
 - VIO初始化 <a href='#ICDIS2022-3'>[ICDIS2022-3]</a>
 - 结构化SLAM（点线面特征融合）
 - Marker SLAM（人工标志融合）
-
 #### 1.4 多视角稠密三维重建
 - 多视角稠密匹配方法研究 <a href='#TIM2023-3'>[TIM2023-3]</a>
-
 #### 1.5 光度立体 （将光度信息融入到移动三维重建中）
 **目标产物：（1）手持单光源三维成像设备；（2）水下ROV移动多光源三维成像设备**
 - 近距离光度立体 <a href='#TIM2023-4'>[TIM2023-4]</a> <a href='#SPIC2022-1'>[SPIC2022-1]</a> <a href='#Opt-Eng2017-2'>[Opt-Eng2017-2]</a>
 - 单光源移动光度立体 <a href='#IECON2018-1'>[IECON2018-1]</a>
 - 晃动光度立体（移动状态下的光度立体）<a href='#IWAIT2022-1'>[IWAIT2022-1]</a>
 - 多视角光度立体（多视角点云拼接）
-
 #### 1.6 三维点云分析
 - 基于三维点云的目标识别、分割
 - 基于三维点云的路径规划
- 
 ### 2. 应用研究
 #### 2.1 水下视觉
 **目标产物：水下光学三维成像系统**
@@ -44,23 +38,18 @@
 - 水下SfM/SLAM
 - 水下重光照  <a href='#ICDIS2022-1'>[ICDIS2022-1]</a>
 - 水下图像增强 <a href='#TCSVT2023-2'>[TCSVT2023-2]</a>
-  
 #### 2.2 结构光三维重建
 **目标产物：（1）线激光旋转扫描仪；（2）双目结构光稠密三维重建系统**
 - 单目线结构光旋转扫描 <a href='#iCAST2020-2'>[iCAST2020-2]</a>
 - 双目格雷码结构光三维重建 <a href='#TIM2022-2'>[TIM2022-2]</a>
-
 #### 2.3 结构化场景测量（平面场景下的点线面特征的综合利用）
 - 单目 消防水柱喷射高度测量
 - 单目 行人身高测量、骨架动态测量
-
 #### 2.4 视觉引导
-
 [↑Top](#Top)
 
 ## 发表论文 （论文、代码、Demo）
 \# 学生一作，\* 通讯作者
-
 **2023年**
 * <a name='TCSVT2023-2'>[TCSVT2023-2]</a> Yuan Rao(饶源)#, Wenjie Liu#, Kunqian Li, Hao Fan, Sen Wang, and Junyu Dong\*, "Deep Color Compensation for Generalized Underwater Image Enhancement"[J], IEEE Transactions on Circuits and Systems for Video Technology, 8-2023.  <a href="https://ieeexplore.ieee.org/document/10220126">链接</a>
 * <a name='TCSVT2023-1'>[TCSVT2023-1]</a> Yuan Rao(饶源)#, Yakun Ju, Cong Li, Eric Rigall, Jian Yang, **Hao Fan**\*, Junyu Dong\*. "Learning General Descriptors for Image Matching with Regression Feedback"[J],  IEEE Transactions on Circuits and Systems for Video Technology, 4-2023. <a href="https://ieeexplore.ieee.org/document/10102528">链接</a>
