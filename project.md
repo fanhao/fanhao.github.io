@@ -1,5 +1,4 @@
-## 计算机视觉实验室 * 水下三维视觉课题组
-**页面导航：** <a href="/index.html">课题组简介</a> | <a href="/research.html">研究内容</a> | <a href="/project.html">研究项目</a>
+## 计算机视觉实验室-- 研究项目 | <a href="/index.html">水下三维视觉课题组</a> | <a href="/research.html">研究内容</a> 
 
 ### 2022年 
 **（1）水下单目/双目线激光扫描系统-南海珊瑚（水下激光三角、水下双目）** （在研）
