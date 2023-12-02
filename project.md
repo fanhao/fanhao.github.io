@@ -1,4 +1,4 @@
-## \color{red}{计算机视觉实验室-- 研究项目} | <a href="/index.html">水下三维视觉课题组</a> | <a href="/research.html">研究内容</a> 
+## <font color=red>计算机视觉实验室--水下三维视觉课题组</font> | <a href="/index.html">课题组介绍</a> | <a href="/research.html">研究内容</a> | <font color=red>研究项目</font>
 
 ### 2022年 
 **（1）水下单目/双目线激光扫描系统-南海珊瑚（水下激光三角、水下双目）** （在研）
