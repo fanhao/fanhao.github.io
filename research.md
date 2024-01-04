@@ -19,20 +19,21 @@
 - VIO初始化 <a href='#ICDIS2022-3'>[ICDIS2022-3]</a>
 - 结构化SLAM（点线面特征融合）
 - Marker SLAM（人工标志融合）
-  
-#### 1.4 多视角稠密三维重建
-- 多视角稠密匹配方法研究 <a href='#TIM2023-3'>[TIM2023-3]</a>
 
-#### 1.5 光度立体 （将光度信息融入到移动三维重建中）
+#### 1.4 光度立体 （将光度信息融入到移动三维重建中）
 **目标产物：（1）手持单光源三维成像设备；（2）水下ROV移动多光源三维成像设备**
 - 近距离光度立体 <a href='#TIM2023-4'>[TIM2023-4]</a> <a href='#SPIC2022-1'>[SPIC2022-1]</a> <a href='#Opt-Eng2017-2'>[Opt-Eng2017-2]</a>
 - 单光源移动光度立体 <a href='#IECON2018-1'>[IECON2018-1]</a>
 - 晃动光度立体（移动状态下的光度立体）<a href='#IWAIT2022-1'>[IWAIT2022-1]</a>
 - 多视角光度立体（多视角点云拼接）
+    
+#### 1.5 多视角稠密三维重建
+- 多视角稠密匹配方法研究 <a href='#TIM2023-3'>[TIM2023-3]</a>
   
-#### 1.6 三维点云分析
-- 基于三维点云的目标识别、分割
-- 基于三维点云的路径规划
+#### 1.6 三维点云分析与路径规划
+- 基于三维点云的目标识别、分割 <a href='#PRCV2023-1'>[PRCV2023-1]</a>
+- 路径规划
+- 视觉引导
   
 ### 2. 应用研究
 #### 2.1 水下视觉
@@ -54,7 +55,6 @@
 - 单目 消防水柱喷射高度测量
 - 单目 行人身高测量、骨架动态测量
 
-#### 2.4 视觉引导
 [↑Top](#Top)
 
 ## 发表论文 （论文、代码、Demo）
@@ -67,6 +67,7 @@
 * <a name='TIM2023-2'>[TIM2023-2]</a> Yuan Rao(饶源)#, Yakun Ju, Sen Wang, Hao Fan, Junyu Dong\*. "Learning Enriched Feature Descriptor for Image Matching and Visual Measurement"[J], IEEE Transactions on Instrumentation and Measurement, 3-2023. <a href="https://ieeexplore.ieee.org/document/10058693">链接</a> 
 * <a name='TIM2023-1'>[TIM2023-1]</a> Zhenlin Jia(贾振霖)#, Yuan Rao#, **Hao Fan**\*, Junyu Dong\*. "An Efficient Visual SfM Framework Using Planar Markers"[J], IEEE Transactions on Instrumentation and Measurement, 2-2023. <a href="https://ieeexplore.ieee.org/document/10041830/authors">链接</a> 
 * <a name='JMSE2023-1'>[JMSE2023-1]</a> Jiaqi Leng#, Qingxuan Lv, Shu Zhang, Yuan Rao, Yimei Liu, **Hao Fan**\*. "Multilevel Inverse Patchmatch Network with Local and Global Refinement for Underwater Stereo Matching"[J], Journal of Marine Science and Engineering, 4-2023. <a href="https://www.mdpi.com/2077-1312/11/5/930">链接</a> 
+* <a name='PRCV2023-1'>[PRCV2023-1]</a> Guobang You#, Yikun Hu, Yimei Liu, Haoyan Liu, **Hao Fan**\*. "Learning Key Features Transformer Network for Point Cloud Processing"[C], Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 10-2023. <a href="https://link.springer.com/chapter/10.1007/978-981-99-8432-9_24">链接</a> 
 
 **2022年**
 * <a name='SPIC2022-1'>[SPIC2022-1]</a> **Hao Fan**, Yuan Rao#, Eric Rigall, Lin Qi, Zhile Wang, Junyu Dong\*. "Near-field photometric stereo using a ring-light imaging device"[J]. Signal Processing: Image Communication, 3-2022, 102: 116605. <a href="https://www.sciencedirect.com/science/article/pii/S0923596521003039">链接</a>
