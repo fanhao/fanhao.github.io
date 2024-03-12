@@ -59,6 +59,7 @@
 
 ## 发表论文 （论文、代码、Demo）
 \# 学生一作，\* 通讯作者
+
 **2024年**
 * <a name='KBS2024-1'>[KBS2024-1]</a> Jian Yang(杨健)#, Yuan Rao, Qing Cai, Eric Rigall, Hao Fan, Junyu Dong\*, Hui Yu. "MLNet: An multi-scale line detector and descriptor network for 3D reconstruction"[J], Knowledge-Based Systems, 2-2024.  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705124001114">链接</a>
 
