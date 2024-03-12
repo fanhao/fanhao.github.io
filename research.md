@@ -59,6 +59,8 @@
 
 ## 发表论文 （论文、代码、Demo）
 \# 学生一作，\* 通讯作者
+**2024年**
+
 **2023年**
 * <a name='TCSVT2023-2'>[TCSVT2023-2]</a> Yuan Rao(饶源)#, Wenjie Liu#, Kunqian Li, Hao Fan, Sen Wang, and Junyu Dong\*, "Deep Color Compensation for Generalized Underwater Image Enhancement"[J], IEEE Transactions on Circuits and Systems for Video Technology, 8-2023.  <a href="https://ieeexplore.ieee.org/document/10220126">链接</a>
 * <a name='TCSVT2023-1'>[TCSVT2023-1]</a> Yuan Rao(饶源)#, Yakun Ju, Cong Li, Eric Rigall, Jian Yang, **Hao Fan**\*, Junyu Dong\*. "Learning General Descriptors for Image Matching with Regression Feedback"[J],  IEEE Transactions on Circuits and Systems for Video Technology, 4-2023. <a href="https://ieeexplore.ieee.org/document/10102528">链接</a>
@@ -68,6 +70,9 @@
 * <a name='TIM2023-1'>[TIM2023-1]</a> Zhenlin Jia(贾振霖)#, Yuan Rao#, **Hao Fan**\*, Junyu Dong\*. "An Efficient Visual SfM Framework Using Planar Markers"[J], IEEE Transactions on Instrumentation and Measurement, 2-2023. <a href="https://ieeexplore.ieee.org/document/10041830/authors">链接</a> 
 * <a name='JMSE2023-1'>[JMSE2023-1]</a> Jiaqi Leng#, Qingxuan Lv, Shu Zhang, Yuan Rao, Yimei Liu, **Hao Fan**\*. "Multilevel Inverse Patchmatch Network with Local and Global Refinement for Underwater Stereo Matching"[J], Journal of Marine Science and Engineering, 4-2023. <a href="https://www.mdpi.com/2077-1312/11/5/930">链接</a> 
 * <a name='PRCV2023-1'>[PRCV2023-1]</a> Guobang You(油国邦)#, Yikun Hu, Yimei Liu, Haoyan Liu, **Hao Fan**\*. "Learning Key Features Transformer Network for Point Cloud Processing"[C], Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 10-2023. <a href="https://link.springer.com/chapter/10.1007/978-981-99-8432-9_24">链接</a> 
+* <a name='SWC2023-1'>[SWC2023-1]</a> Zeping Li(李则平)#, Yikun Hu, Yixin Chen, **Hao Fan**\*, Junyu Dong. "Evaluating The Effect of Refraction on Underwater Stereo Vision"[C], IEEE Smart World Congress (SWC), 8-2023. <a href="https://ieeexplore.ieee.org/abstract/document/10448766">链接</a>
+* <a name='SWC2023-2'>[SWC2023-2]</a> Yimei Liu(刘伊美)#, Zhiyuan Zhang, **Hao Fan**\*, Junyu Dong. "A Survey of PatchMatch-Based Multi-View Stereo"[C], IEEE Smart World Congress (SWC), 8-2023. <a href="https://ieeexplore.ieee.org/abstract/document/10448597">链接</a> 
+
 
 **2022年**
 * <a name='SPIC2022-1'>[SPIC2022-1]</a> **Hao Fan**, Yuan Rao#, Eric Rigall, Lin Qi, Zhile Wang, Junyu Dong\*. "Near-field photometric stereo using a ring-light imaging device"[J]. Signal Processing: Image Communication, 3-2022, 102: 116605. <a href="https://www.sciencedirect.com/science/article/pii/S0923596521003039">链接</a>
