@@ -61,7 +61,7 @@
 \# 学生一作，\* 通讯作者
 
 **2024年**
-* <a name='TCSVT2024-1'>[TCSVT2024-1]</a> Yimei Liu(刘伊美), Qin Cai, Congcong Wang, Jian Yang, Hao Fan\*, Junyu Dong\*, Sheng Chen. "Geometry-Enhanced Attentive Multi-View Stereo for Challenging Matching Scenarios"[J], IEEE Transactions on Circuits and Systems for Video Technology, 3-2024.  <a href="https://ieeexplore.ieee.org/document/10220126">链接</a>
+* <a name='TCSVT2024-1'>[TCSVT2024-1]</a> Yimei Liu(刘伊美), Qin Cai, Congcong Wang, Jian Yang, Hao Fan\*, Junyu Dong\*, Sheng Chen. "Geometry-Enhanced Attentive Multi-View Stereo for Challenging Matching Scenarios"[J], IEEE Transactions on Circuits and Systems for Video Technology, 3-2024.  <a href="https://ieeexplore.ieee.org/abstract/document/10471625">链接</a>
 * <a name='KBS2024-1'>[KBS2024-1]</a> Jian Yang(杨健)#, Yuan Rao, Qing Cai, Eric Rigall, Hao Fan, Junyu Dong\*, Hui Yu. "MLNet: An multi-scale line detector and descriptor network for 3D reconstruction"[J], Knowledge-Based Systems, 2-2024.  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705124001114">链接</a>
 
 **2023年**
