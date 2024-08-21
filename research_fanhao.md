@@ -1,4 +1,4 @@
-## <font color=blue>范浩老师--研究内容</font>|<a href="/index.html">三维视觉课题组介绍</a>
+## <a href="/index.html">三维视觉课题组</a> | <font color=blue>范浩老师--研究内容</font>
 
 ### 1. 基础方法研究
 #### 1.1 双目立体视觉（服务于视觉定位与重建）
