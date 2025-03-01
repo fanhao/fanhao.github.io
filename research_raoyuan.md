@@ -1,4 +1,4 @@
-## <a href="/index.html">三维视觉课题组</a> | <font color=blue>饶源老师--研究内容</font>
+## <a href="/index.html">三维视觉课题组</a> | <font color=blue>饶源*研究内容</font>
 
 ### 研究兴趣
 #### 1.1 图像处理（服务于视觉定位与重建）
