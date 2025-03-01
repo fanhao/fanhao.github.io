@@ -1,12 +1,13 @@
 ## <a href="/index.html">三维视觉课题组</a> | <font color=blue>范浩老师--研究内容</font>
+谷歌学术<a href="https://scholar.google.com/citations?hl=zh-CN&user=mcKKcmQAAAAJ&view_op=list_works&sortby=pubdate">主页</a>
 
 ### 1. 视觉定位技术研究
 #### 1.1 视觉SLAM、VIO（多传感器融合的高精度移动定位）
-- 图像特征提取、匹配 <a href='#TIM2022-1'>[TIM2022-1]</a> <a href='#TIM2023-2'>[TIM2023-2]</a> <a href='#TCSVT023-1'>[TCSVT2023-1]</a>
+- 图像特征提取、匹配 <a href='#TIM2023-2'>[TIM2023-2]</a> <a href='#TCSVT023-1'>[TCSVT2023-1]</a> <a href='#TIM2022-1'>[TIM2022-1]</a>
 - 图像特征匹配/误匹配剔除/图像跟踪 <a href='#iCAST2020-3'>[iCAST2020-3]</a>
-- VIO <a href='#ICDIS2022-3'>[ICDIS2022-3]</a>
-- 结构化SLAM（点线面特征融合）
-- Marker SLAM（人工标志融合）
+- VIO <a href='#IMTS2024-1'>[IMTS2024-1]</a> <a href='#ICDIS2022-3'>[ICDIS2022-3]</a> 
+- 结构化SLAM（点线面特征融合）<a href='#FITYR2024-1'>[FITYR2024-1]</a>
+- Marker SLAM（人工标志融合）<a href='#IWAIT2024-1'>[IWAIT2024-1]</a>
 - 线结构光扫描系统 <a href='#iCAST2020-1'>[iCAST2020-1]</a> <a href='#TEM2019-1'>[TEM2019-1]</a>
 
 #### 1.2 运动恢复结构方法SfM（视觉高精度移动定位）
@@ -14,13 +15,14 @@
 
 ### 2. 视觉稠密三维成像技术研究
 #### 2.1 双目立体视觉
-- 双目（视差）稠密匹配方法研究 <a href='#ICIVC2022-1'>[ICIVC2022-1]</a> <a href='JMSE2023-1'>[JMSE2023-1]</a>
+- 双目（视差）稠密匹配方法研究 <a href='JMSE2023-1'>[JMSE2023-1]</a> <a href='#ICIVC2022-1'>[ICIVC2022-1]</a>
 - 双目（非视差）像素级匹配方法研究（光流、形变法等）
   
 #### 2.2 光度立体 （将光度信息融入到移动三维重建中）
 **目标产物：（1）手持单光源三维成像设备；（2）水下ROV移动多光源三维成像设备**
+- 光度立体基础方法 <a href='#AAAI2025-1'>[AAAI2025-1]</a> 
 - 近距离光度立体 <a href='#TIM2023-4'>[TIM2023-4]</a> <a href='#SPIC2022-1'>[SPIC2022-1]</a> <a href='#Opt-Eng2017-2'>[Opt-Eng2017-2]</a>
-- 单光源移动光度立体 <a href='#IECON2018-1'>[IECON2018-1]</a>
+- 单光源移动光度立体 <a href='#FITYR2024-2'>[FITYR2024-2]</a> <a href='#IECON2018-1'>[IECON2018-1]</a> 
 - 晃动光度立体（移动状态下的光度立体）<a href='#IWAIT2022-1'>[IWAIT2022-1]</a>
     
 #### 2.3 多视角稠密三维重建
@@ -57,10 +59,18 @@
 
 ## 发表论文 （论文、代码、Demo）
 \# 学生一作，\* 通讯作者
+**2025年**
+* <a name='AAAI2025-1'>[AAAI2025-1]</a> Jiaqi Leng, Yakun Ju, Yuanxu Duan, Jiangnan Zhang, Qingxuan Lv, Zuxuan Wu, **Hao Fan**\*. "FNIN: A Fourier Neural Operator-based Numerical Integration Network for Surface-form-gradients", AAAI2025, 2-2024.  <a href="https://arxiv.org/abs/2501.11876">链接</a>
 
 **2024年**
 * <a name='TCSVT2024-1'>[TCSVT2024-1]</a> Yimei Liu(刘伊美), Qin Cai, Congcong Wang, Jian Yang, **Hao Fan**\*, **Junyu Dong**\*, Sheng Chen. "Geometry-Enhanced Attentive Multi-View Stereo for Challenging Matching Scenarios"[J], IEEE Transactions on Circuits and Systems for Video Technology, 3-2024.  <a href="https://ieeexplore.ieee.org/abstract/document/10471625">链接</a>
 * <a name='KBS2024-1'>[KBS2024-1]</a> Jian Yang(杨健)#, Yuan Rao, Qing Cai, Eric Rigall, Hao Fan, **Junyu Dong**\*, Hui Yu. "MLNet: An multi-scale line detector and descriptor network for 3D reconstruction"[J], Knowledge-Based Systems, 2-2024.  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705124001114">链接</a>
+* <a name='TIM2024-1'>[TIM2024-1]</a> Jinao Song(宋金澳), Jie Li, **Hao Fan**\*, Lin Qi, Shu Zhang, Yong Chen, Junyu Dong. "Real-Scale 3D Reconstruction with Monocular Zoom Technology"[J], IEEE Transactions on Instrumentation and Measurement, 11-2024. <a href="https://ieeexplore.ieee.org/abstract/document/10752634">链接</a>
+* <a name='IMTS2024-1'>[IMTS2024-1]</a> Kang An(安康), **Hao Fan**\*, Junyu Dong. "A marker-based method for visual-inertial initialization"[J], Intelligent Marine Technology and Systems, 9-2024. <a href="https://link.springer.com/article/10.1007/s44295-024-00041-4">链接</a>
+* <a name='Neurocomputing2024-1'>[Neurocomputing2024-1]</a> Jian Yang(杨健), Jian Zhou, Hao Fan, Junyu Dong, Hui Yu. "Learning context-aware local feature descriptors for 3D reconstruction"[J], Neurocomputing, 8-2024. <a href="https://www.sciencedirect.com/science/article/pii/S0925231224005642">链接</a>
+* <a name='FITYR2024-1'>[FITYR2024-1]</a> Tong Ning(宁曈), Zhiyuan Zhang, **Hao Fan**\*. "An Efficient EKF-Based Visual Inertial Odometry Using Both Point and Line Features", IEEE 1st International Workshop on Future Intelligent Technologies for Young Researchers, 7-2024. <a href="https://ieeexplore.ieee.org/abstract/document/10763796">链接</a>
+* <a name='FITYR2024-2'>[FITYR2024-2]</a> Shengran He(贺升燃), Yifan Yin, Yeling Jiang, **Hao Fan**\*. "Dense 3D Reconstruction with Fusing Structure from Motion and Dynamic Photometric Stereo", IEEE 1st International Workshop on Future Intelligent Technologies for Young Researchers, 7-2024. <a href="https://ieeexplore.ieee.org/abstract/document/10763760">链接</a>
+* <a name='IWAIT2024-1'>[IWAIT2024-1]</a> Zhiyuan Zhang(张志远), Tong Ning, Yimei Liu, **Hao Fan**\*, Junyu Dong. "Dense 3D Reconstruction with Fusing Structure from Motion and Dynamic Photometric Stereo", International Workshop on Advanced Imaging Technology, 5-2024.
 
 **2023年**
 * <a name='TCSVT2023-2'>[TCSVT2023-2]</a> Yuan Rao(饶源)#, Wenjie Liu#, Kunqian Li, Hao Fan, Sen Wang, and **Junyu Dong**\*. "Deep Color Compensation for Generalized Underwater Image Enhancement"[J], IEEE Transactions on Circuits and Systems for Video Technology, 8-2023.  <a href="https://ieeexplore.ieee.org/document/10220126">链接</a>
