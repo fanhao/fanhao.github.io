@@ -2,8 +2,8 @@
 
 ### 研究兴趣
 #### 1.1 图像处理（服务于视觉定位与重建）
--水下图像增强 <a href='#ICDIS2022-1'>[重光照 ICDIS2022-1]</a> <a href='#TCSVT2023-2'>[TCSVT2023-2]</a>
--图像匹配 <a href='#TIM2022-1'>[TIM2022-1]</a> <a href='#TIM2023-2'>[TIM2023-2]</a> <a href='#TCSVT023-1'>[TCSVT2023-1]</a> <a href='#iCAST2020-3'>[iCAST2020-3]</a>
+- 水下图像增强 <a href='#ICDIS2022-1'>[重光照 ICDIS2022-1]</a> <a href='#TCSVT2023-2'>[TCSVT2023-2]</a>
+- 图像匹配 <a href='#TIM2022-1'>[TIM2022-1]</a> <a href='#TIM2023-2'>[TIM2023-2]</a> <a href='#TCSVT023-1'>[TCSVT2023-1]</a> <a href='#iCAST2020-3'>[iCAST2020-3]</a>
   
 #### 1.2 三维视觉感知
 - 双目立体 <a href='#TIM2022-2'>[TIM2022-2]</a> <a href='JMSE2023-1'>[JMSE2023-1]</a> <a href='#ICIVC2022-1'>[ICIVC2022-1]</a>
