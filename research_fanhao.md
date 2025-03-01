@@ -1,4 +1,4 @@
-## <a href="/index.html">三维视觉课题组</a> | <font color=blue>范浩老师--研究内容</font> 谷歌学术<a href="https://scholar.google.com/citations?hl=zh-CN&user=mcKKcmQAAAAJ&view_op=list_works&sortby=pubdate">主页</a>
+## <a href="/index.html">三维视觉课题组</a> | <font color=blue>范浩老师--研究内容</font> --谷歌学术<a href="https://scholar.google.com/citations?hl=zh-CN&user=mcKKcmQAAAAJ&view_op=list_works&sortby=pubdate">主页</a>
 
 ### 1. 视觉定位技术研究
 #### 1.1 视觉SLAM、VIO（多传感器融合的高精度移动定位）
