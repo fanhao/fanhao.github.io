@@ -48,6 +48,7 @@
 
 **2020年**
 * <a name='iCAST2020-2'>[iCAST2020-2]</a> Chenxin Jia#, Ying Cao, Jian Yang, Yuan Rao, **Hao Fan**\*, Wenlin Yao. Improving Visual-Inertial Odometry with Robust Outlier Rejection and Loop Closure[C]. 2020 11th International Conference on Awareness Science and Technology (iCAST). IEEE, 2020.  <a href="https://ieeexplore.ieee.org/abstract/document/9319474/authors#authors">链接</a>
+
 [↑Top](#Top)
 
 <h6 align = "center"> <a href="/index.html">计算机视觉实验室 -- 水下三维视觉课题组</a> </h6>
