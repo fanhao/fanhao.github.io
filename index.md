@@ -2,12 +2,12 @@
 
 ### 科研团队（<a href="http://it.ouc.edu.cn/">信息科学与工程学部</a> <a href="http://it.ouc.edu.cn/cs/">计算机科学与技术学院</a> ） 
 #### <a href="http://www.ouc.edu.cn/">中国海洋大学</a> 计算机视觉实验室 成立于2004年，实验室负责人为董军宇教授。本网站为计算机视觉实验室的三维视觉课题组网站。
-* (1) **董军宇** 教授
-* (2) **范浩** 副教授 (<a href="/research_fanhao.html">研究内容</a>、<a href="http://it.ouc.edu.cn/fh/main.htm">学校主页</a>)
-* (3) **亓琳** 副教授
-* (4) **张述** 副教授
+* (1) **董军宇** 教授  (2) **亓琳** 副教授  (3) **张述** 副教授
+* (4) **范浩** 副教授 (<a href="/research_fanhao.html">研究内容</a>、<a href="http://it.ouc.edu.cn/fh/main.htm">学校主页</a>)
 * (5) **饶源** ( <a href="/research_raoyuan.html">研究内容</a>、<a href="https://it.ouc.edu.cn/ry/list.htm">学校主页</a> )
 * (6) **刘伊美** ( <a href="/research_liuyimei.html">研究内容</a>、<a href="https://it.ouc.edu.cn/lym/list.htm">学校主页</a> )
+
+![Uploading 069284ee54a59ebc702d4c31b8617f21.png…]()
 
 ## 研究生 招生
 * 欢迎计算机、自动化、电子等相关专业的本科生报考硕士研究生！
